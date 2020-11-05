@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-05T16:23:52 ART" name="All Test Suite" finished-at="2020-11-05T16:24:08 ART" duration-ms="16182">
+    <groups>
+    </groups>
+    <test started-at="2020-11-05T16:23:52 ART" name="challenge001" finished-at="2020-11-05T16:24:08 ART" duration-ms="16182">
+      <class name="web.amazonwebtest.challenge001">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:web.amazonwebtest.challenge001@2fd6b6c7]" started-at="2020-11-05T16:23:52 ART" name="setUp" finished-at="2020-11-05T16:23:56 ART" duration-ms="4748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ListOfSearchResults()[pri:0, instance:web.amazonwebtest.challenge001@2fd6b6c7]" started-at="2020-11-05T16:23:56 ART" name="ListOfSearchResults" description="Get list of all Best Sellers headphones" finished-at="2020-11-05T16:24:07 ART" duration-ms="10625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListOfSearchResults -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:web.amazonwebtest.challenge001@2fd6b6c7]" started-at="2020-11-05T16:24:07 ART" name="tearDown" finished-at="2020-11-05T16:24:08 ART" duration-ms="769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- web.amazonwebtest.challenge001 -->
+    </test> <!-- challenge001 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
